@@ -17,7 +17,6 @@
   "minimumCoreVersion": "0.7.3",
   "compatibleCoreVersion": "0.7.9",
   "url": "https://github.com/itsmegrave/fbl-legends-and-adventures-foundry-vtt",
-  "manifest": "https://github.com/itsmegrave/fbl-legends-and-adventures-foundry-vtt/master/module.json",
+  "manifest": "https://github.com/itsmegrave/fbl-legends-and-adventures-foundry-vtt/main/module.json",
   "download": "https://github.com/itsmegrave/fbl-legends-and-adventures-foundry-vtt/archive/v0.0.1.zip"
-
 }
