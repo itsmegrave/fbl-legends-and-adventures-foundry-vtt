@@ -9,7 +9,7 @@
       "name": "fbl-la-backstories",
       "label": "Backstories",
       "system": "forbidden-lands",
-      "path": "./packs/backstories-tables.db",
+      "path": "packs/backstories-tables.db",
       "entity": "RollTable"
     }
   ],
